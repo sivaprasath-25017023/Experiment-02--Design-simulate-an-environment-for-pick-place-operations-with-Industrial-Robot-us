@@ -117,7 +117,7 @@ raise Exception("""Your license does not allow generating programs with more tha
  
  
  
-### RESULT
+### RESULTS:
 An environment for pick & place operations with Industrial Robot has been created and the simulation has been completed successfully using Robo DK software.
  
  
@@ -139,4 +139,4 @@ An environment for pick & place operations with Industrial Robot has been create
 
 
 
-### RESULTS :  
+
